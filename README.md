@@ -8,6 +8,8 @@
 
 > Video
 
+https://user-images.githubusercontent.com/97245841/191337388-ba47801e-026e-4a05-8d6c-9c0a724c7cdf.mp4
+
 # About
 
 It's a 2D game in which you have to evade the meteors. And if any meteor touches you then the game will be over.
